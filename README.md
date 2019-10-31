@@ -1,5 +1,7 @@
 # LyricFinder App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DenisRebenok/lyricfinder.svg)](https://greenkeeper.io/)
+
 > App that finds song lyrics using React and the Musixmatch API.
 
 ## Musixmatch API
